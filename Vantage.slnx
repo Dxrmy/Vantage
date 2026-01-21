@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Vantage.Core/Vantage.Core.csproj">
+    <Platform Project="x86" />
+  </Project>
+  <Project Path="Vantage.Ext.Discord/Vantage.Ext.Discord.csproj" />
+  <Project Path="Vantage.Ext.Overlay/Vantage.Ext.Overlay.csproj" />
+  <Project Path="Vantage.SDK/Vantage.SDK.csproj" />
+</Solution>

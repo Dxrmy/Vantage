@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEaeUesKMSc=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\App Projects\\Vantage\\Vantage.Core\\Vantage.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmric\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.3233\\microsoft.windows.sdk.buildtools.10.0.22621.3233.nupkg.sha512",
+    "C:\\Users\\kmric\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240627000\\microsoft.windowsappsdk.1.5.240627000.nupkg.sha512",
+    "C:\\Users\\kmric\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kmric\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.23\\microsoft.netcore.app.runtime.win-x64.8.0.23.nupkg.sha512",
+    "C:\\Users\\kmric\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.23.nupkg.sha512",
+    "C:\\Users\\kmric\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.23\\microsoft.aspnetcore.app.runtime.win-x64.8.0.23.nupkg.sha512",
+    "C:\\Users\\kmric\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

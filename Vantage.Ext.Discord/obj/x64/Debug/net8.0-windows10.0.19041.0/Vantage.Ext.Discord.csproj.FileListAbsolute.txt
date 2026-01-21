@@ -1,0 +1,15 @@
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\bin\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.deps.json
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\bin\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.dll
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\bin\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.pdb
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\bin\x64\Debug\net8.0-windows10.0.19041.0\Vantage.SDK.dll
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\bin\x64\Debug\net8.0-windows10.0.19041.0\Vantage.SDK.pdb
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.csproj.AssemblyReference.cache
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.AssemblyInfoInputs.cache
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.AssemblyInfo.cs
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.csproj.CoreCompileInputs.cache
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage..D7C40623.Up2Date
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.dll
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\Vantage.Ext.Discord.dll
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\Vantage.Ext.Discord.pdb
+D:\GitHub\App Projects\Vantage\Vantage.Ext.Discord\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\Vantage.Ext.Discord.dll

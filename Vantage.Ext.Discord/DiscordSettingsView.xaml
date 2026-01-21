@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserControl
+    x:Class="Vantage.Ext.Discord.DiscordSettingsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel Spacing="20" Padding="20">
+        <TextBlock Text="Discord Rich Presence" Style="{StaticResource TitleTextBlockStyle}" />
+        
+        <ToggleSwitch Header="Public Party (Ask to Join)" IsOn="{x:Bind ViewModel.IsPartyPublic, Mode=TwoWay}" />
+        
+        <TextBlock Text="Templates" Style="{StaticResource SubtitleTextBlockStyle}" />
+        <TextBox Header="Menu Details" Text="{x:Bind ViewModel.Templates.MenuDetails, Mode=TwoWay}" />
+        <TextBox Header="In-Game Details" Text="{x:Bind ViewModel.Templates.InGameDetails, Mode=TwoWay}" />
+        
+        <Button Content="Save Settings" Click="SaveBtn_Click" />
+    </StackPanel>
+</UserControl>
