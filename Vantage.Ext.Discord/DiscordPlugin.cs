@@ -54,8 +54,12 @@ namespace Vantage.Ext.Discord
 
         public UserControl? GetSettingsView()
         {
-            // TODO: Return actual settings UI
-            return new UserControl() { Content = new TextBlock() { Text = "Discord Settings Placeholder" } };
+            return new DiscordSettingsView(_settings, SaveSettings);
+        }
+
+        private void SaveSettings()
+        {
+            _host.SaveConfig(Name, _settings);
         }
 
         private void OnPresenceUpdated(object? sender, ValorantPresence presence)
